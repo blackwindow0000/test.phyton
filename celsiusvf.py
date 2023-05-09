@@ -1,0 +1,5 @@
+f=input("Qual é a temperatura em graus Fahrenheit?")
+x=float(f)
+print(x)
+c = 5 * ((f-32) / 9)
+print(c)
